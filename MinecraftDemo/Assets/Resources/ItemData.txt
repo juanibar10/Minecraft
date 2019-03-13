@@ -1,0 +1,338 @@
+id: -1
+name: Air
+stackable: false
+placeable: false
+slug: air
+,
+id: 0
+name: Stone
+stackable: true
+placeable: true	
+slug: stone
+,
+id: 1
+name: Grass
+stackable: true
+placeable: true
+slug: grass
+,
+id: 2
+name: Dirt
+stackable: true
+placeable: true
+slug: dirt
+,
+id: 3
+name: Cobblestone
+stackable: true
+placeable: true
+slug: cobblestone
+,
+id: 4
+name: Oak Wood Plank
+stackable: true
+placeable: true
+slug: oak_wood_plank
+,
+id: 5
+name: Oak Sapling
+stackable: true
+placeable: true
+slug: oak_sapling
+,
+id: 7
+name: Bedrock
+stackable: false
+placeable: true
+slug: bedrock
+,
+id: 8
+name: Flowing Water
+stackable: false
+placeable: true
+slug: flowing_water
+,
+id: 9
+name: Still water
+stackable: false
+placeable: true
+slug: still_water
+,
+id: 10
+name: Flowing Lava
+stackable: false
+placeable: true
+slug: flowing_lava
+,
+id: 11
+name: Still Lava
+stackable: false
+placeable: true
+slug: still_lava
+,
+id: 12
+name: Sand
+stackable: true
+placeable: true
+slug: still_lava
+,
+id: 13
+name: Gravel
+stackable: true
+placeable: true
+slug: gravel
+,
+id: 14
+name: Gold Ore
+stackable: true
+placeable: true
+slug: gold_ore
+,
+id: 15
+name: Iron Ore
+stackable: true
+placeable: true
+slug: iron_ore
+,
+id: 16
+name: Coal Ore
+stackable: true
+placeable: true
+slug: coal_ore
+,
+id: 17
+name: Oak Wood
+stackable: true
+placeable: true
+slug: oak_wood
+,
+id: 18
+name: Oak Leaves
+stackable: true
+placeable: true
+slug: oak_leaves
+,
+id: 19
+name: Glass
+stackable: true
+placeable: true
+slug: glass
+,
+id: 20
+name: Sandstone
+stackable: true
+placeable: true
+slug: sandstone
+,
+id: 21
+name: Bed
+stackable: false
+placeable: true
+slug: bed
+,
+id: 22
+name: Web
+stackable: true
+placeable: true
+slug: web
+,
+id: 23
+name: Dead Shrub
+stackable: false
+placeable: true
+slug: dead_shrub
+,
+id: 24
+name: Grass
+stackable: true
+placeable: true
+slug: grass
+,
+id: 25
+name: Piston
+stackable: true
+placeable: true
+slug: piston
+,
+id: 26
+name: White Whool
+stackable: true
+placeable: true
+slug: white_whool
+,
+id: 27
+name: Poppy
+stackable: false
+placeable: true
+slug: poppy
+,
+id: 28
+name: Gold Block
+stackable: true
+placeable: true
+slug: gold_block
+,
+id: 29
+name: Iron Block
+stackable: true
+placeable: true
+slug: iron_block
+,
+id: 30
+name: Double Stone Slab	
+stackable: true
+placeable: true
+slug: double_stone_slab	
+,
+id: 31
+name: Double Sandstone Slab	
+stackable: true
+placeable: true
+slug: double_sandstone_slab	
+,
+id: 32
+name: Double Wooden Slab	
+stackable: true
+placeable: true
+slug: double_wooden_slab	
+,
+id: 33
+name: Double Cobblestone Slab	
+stackable: true
+placeable: true
+slug: double_cobblestone_slab	
+,
+id: 34
+name: Double Brick Slab	
+stackable: true
+placeable: true
+slug: double_brick_slab	
+,
+id: 35
+name: Double stone Brick Slab	
+stackable: true
+placeable: true
+slug: double_stone_brick_slab	
+,
+id: 36
+name: Stone Slab	
+stackable: true
+placeable: true
+slug: stone_slab	
+,
+id: 37
+name: Sandstone Slab	
+stackable: true
+placeable: true
+slug: sandstone_slab	
+,
+id: 38
+name: Wooden Slab	
+stackable: true
+placeable: true
+slug: wooden_slab	
+,
+id: 39
+name: Cobblestone Slab	
+stackable: true
+placeable: true
+slug: cobblestone_slab	
+,
+id: 40
+name: Brick Slab	
+stackable: true
+placeable: true
+slug: brick_slab	
+,
+id: 41
+name: Stone Brick Slab	
+stackable: true
+placeable: true
+slug: stone_brick_slab	
+,
+id: 42
+name: Bricks
+stackable: true
+placeable: true
+slug: bricks	
+,
+id: 43
+name: TNT
+stackable: true
+placeable: true
+slug: tnt	
+,
+id: 44
+name: Bookshelf
+stackable: true
+placeable: true
+slug: bookshelf	
+,
+id: 44
+name: Bookshelf
+stackable: true
+placeable: true
+slug: bookshelf	
+,
+id: 45
+name: Obsidian
+stackable: true
+placeable: true
+slug: obsidian	
+,
+id: 46
+name: Torch
+stackable: true
+placeable: true
+slug: torch	
+,
+id: 47
+name: Fire
+stackable: false
+placeable: true
+slug: fire	
+,
+id: 48
+name: Monster Spawner
+stackable: true
+placeable: true
+slug: monster_spawner	
+,
+id: 49
+name: Oak Wood Stairs
+stackable: true
+placeable: true
+slug: oak_wood_stairs	
+,
+id: 50
+name: Chest
+stackable: true
+placeable: true
+slug: chest	
+,
+id: 51
+name: Redstone Wire
+stackable: true
+placeable: true
+slug: redstone_wire	
+,
+id: 52
+name: Diamond Ore
+stackable: true
+placeable: true
+slug: diamond_ore	
+,
+id: 53
+name: Diamond Block
+stackable: true
+placeable: true
+slug: diamond_block	
+,
+
+::: Template :::
+
+id:
+name:
+stackable:
+placeable:
+slug:

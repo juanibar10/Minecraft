@@ -1,0 +1,212 @@
+0			0				Air													air
+1			0				Stone												stone
+2			0				Grass												grass
+3			0				Dirt												dirt
+4			0				Cobblestone											cobblestone
+5			0				Oak Wood Plank										planks
+6			0				Oak Sapling											sapling
+7			0				Bedrock												bedrock
+8			0				Flowing Water										flowing_water
+9			0				Still Water											water
+10			0				Flowing Lava										flowing_lava
+11			0				Still Lava											lava
+12			0				Sand												sand
+13			0				Gravel												gravel
+14			0				Gold Ore											gold_ore
+15			0				Iron Ore											iron_ore
+16			0				Coal Ore											coal_ore
+17			0				Oak Wood											log
+18			0				Oak Leaves											leaves
+20			0				Glass												glass
+24			0				Sandstone											sandstone
+26			0				Bed													bed
+30			0				Cobweb												web
+31			0				Dead Shrub											tallgrass
+31			1				Grass												tallgrass
+33			0				Piston												piston
+35			0				White Wool											wool
+38			0				Poppy												red_flower
+41			0				Gold Block											gold_block
+42			0				Iron Block											iron_block
+43			0				Double Stone Slab									double_stone_slab
+43			1				Double Sandstone Slab								double_stone_slab
+43			2				Double Wooden Slab									double_stone_slab
+43			3				Double Cobblestone Slab								double_stone_slab
+43			4				Double Brick Slab									double_stone_slab
+43			5				Double Stone Brick Slab								double_stone_slab
+44			0				Stone Slab											stone_slab
+44			1				Sandstone Slab										stone_slab
+44			2				Wooden Slab											stone_slab
+44			3				Cobblestone Slab									stone_slab
+44			4				Brick Slab											stone_slab
+44			5				Stone Brick Slab									stone_slab
+45			0				Bricks												brick_block
+46			0				TNT													tnt
+47			0				Bookshelf											bookshelf
+49			0				Obsidian											obsidian
+50			0				Torch												torch
+51			0				Fire												fire
+52			0				Monster Spawner										mob_spawner
+53			0				Oak Wood Stairs										oak_stairs
+54			0				Chest												chest
+55			0				Redstone Wire										redstone_wire
+
+
+
+56			0				Diamond Ore											diamond_ore
+57			0				Diamond Block										diamond_block
+58			0				Crafting Table										crafting_table
+59			0				Wheat Crops											wheat
+60			0				Farmland											farmland
+61			0				Furnace												furnace
+62			0				Burning Furnace										lit_furnace
+63			0				Standing Sign Block									standing_sign
+64			0				Oak Door Block										wooden_door
+65			0				Ladder												ladder
+67			0				Cobblestone Stairs									stone_stairs
+73			0				Redstone Ore										redstone_ore
+74			0				Glowing Redstone Ore								lit_redstone_ore
+75			0				Redstone Torch (off)								unlit_redstone_torch
+76			0				Redstone Torch (on)									redstone_torch
+78			0				Snow												snow_layer
+79			0				Ice													ice
+80			0				Snow Block											snow
+81			0				Cactus												cactus
+82			0				Clay												clay
+83			0				Sugar Canes											reeds
+85			0				Oak Fence											fence
+86			0				Pumpkin												pumpkin
+96			0				Wooden Trapdoor										trapdoor
+98			0				Stone Bricks										stonebrick
+101			0				Iron Bars											iron_bars
+102			0				Glass Pane											glass_pane
+103			0				Melon Block											melon_block
+104			0				Pumpkin Stem										pumpkin_stem
+105			0				Melon Stem											melon_stem
+106			0				Vines												vine
+107			0				Oak Fence Gate										fence_gate
+108			0				Brick Stairs										brick_stairs
+109			0				Stone Brick Stairs									stone_brick_stairs
+116			0				Enchantment Table									enchanting_table
+125			0				Double Oak Wood Slab								double_wooden_slab
+126			0				Oak Wood Slab										wooden_slab
+128			0				Sandstone Stairs									sandstone_stairs
+129			0				Emerald Ore											emerald_ore
+130			0				Ender Chest											ender_chest
+133			0				Emerald Block										emerald_block
+137			0				Command Block										command_block
+138			0				Beacon												beacon
+139			0				Cobblestone Wall									cobblestone_wall
+141			0				Carrots												carrots
+142			0				Potatoes											potatoes
+152			0				Redstone Block										redstone_block
+165			0				Slime Block											slime
+166			0				Barrier												barrier
+170			0				Hay Bale											hay_block
+172			0				Hardened Clay										hardened_clay
+173			0				Block of Coal										coal_block
+174			0				Packed Ice											packed_ice
+212			0				Frosted Ice											frosted_ice
+213			0				Magma Block											magma
+256			0				Iron Shovel											iron_shovel
+257			0				Iron Pickaxe										iron_pickaxe
+258			0				Iron Axe											iron_axe
+259			0				Flint and Steel										flint_and_steel
+260			0				Apple												apple
+261			0				Bow													bow
+262			0				Arrow												arrow
+263			0				Coal												coal
+263			1				Charcoal											coal
+264			0				Diamond												diamond
+265			0				Iron Ingot											iron_ingot
+266			0				Gold Ingot											gold_ingot
+267			0				Iron Sword											iron_sword
+268			0				Wooden Sword										wooden_sword
+269			0				Wooden Shovel										wooden_shovel
+270			0				Wooden Pickaxe										wooden_pickaxe
+271			0				Wooden Axe											wooden_axe
+272			0				Stone Sword											stone_sword
+273			0				Stone Shovel										stone_shovel
+274			0				Stone Pickaxe										stone_pickaxe
+275			0				Stone Axe											stone_axe
+276			0				Diamond Sword										diamond_sword
+277			0				Diamond Shovel										diamond_shovel
+278			0				Diamond Pickaxe										diamond_pickaxe
+279			0				Diamond Axe											diamond_axe
+280			0				Stick												stick
+283			0				Golden Sword										golden_sword
+284			0				Golden Shovel										golden_shovel
+285			0				Golden Pickaxe										golden_pickaxe
+286			0				Golden Axe											golden_axe
+290			0				Wooden Hoe											wooden_hoe
+291			0				Stone Hoe											stone_hoe
+292			0				Iron Hoe											iron_hoe
+293			0				Diamond Hoe											diamond_hoe
+294			0				Golden Hoe											golden_hoe
+295			0				Wheat Seeds											wheat_seeds
+296			0				Wheat												wheat
+297			0				Bread												bread
+298			0				Leather Helmet										leather_helmet
+299			0				Leather Tunic										leather_chestplate
+300			0				Leather Pants										leather_leggings
+301			0				Leather Boots										leather_boots
+306			0				Iron Helmet											iron_helmet
+307			0				Iron Chestplate										iron_chestplate
+308			0				Iron Leggings										iron_leggings
+309			0				Iron Boots											iron_boots
+310			0				Diamond Helmet										diamond_helmet
+311			0				Diamond Chestplate									diamond_chestplate
+312			0				Diamond Leggings									diamond_leggings
+313			0				Diamond Boots										diamond_boots
+314			0				Golden Helmet										golden_helmet
+315			0				Golden Chestplate									golden_chestplate
+316			0				Golden Leggings										golden_leggings
+317			0				Golden Boots										golden_boots
+318			0				Flint												flint
+319			0				Raw Porkchop										porkchop
+320			0				Cooked Porkchop										cooked_porkchop
+322			0				Golden Apple										golden_apple
+322			1				Enchanted Golden Apple								golden_apple
+323			0				Sign												sign
+324			0				Oak Door											wooden_door
+325			0				Bucket												bucket
+326			0				Water Bucket										water_bucket
+327			0				Lava Bucket											lava_bucket
+328			0				Minecart											minecart
+329			0				Saddle												saddle
+331			0				Redstone											redstone
+332			0				Snowball											snowball
+333			0				Oak Boat											boat
+334			0				Leather												leather
+335			0				Milk Bucket											milk_bucket
+336			0				Brick												brick
+337			0				Clay												clay_ball
+338			0				Sugar Canes											reeds
+339			0				Paper												paper
+340			0				Book												book
+341			0				Slimeball											slime_ball
+344			0				Egg													egg
+351			15				Bone Meal											dye
+352			0				Bone												bone
+353			0				Sugar												sugar
+355			0				Bed													bed
+357			0				Cookie												cookie
+360			0				Melon												melon
+361			0				Pumpkin Seeds										pumpkin_seeds
+362			0				Melon Seeds											melon_seeds
+363			0				Raw Beef											beef
+364			0				Steak												cooked_beef
+365			0				Raw Chicken											chicken
+366			0				Cooked Chicken										cooked_chicken
+367			0				Rotten Flesh										rotten_flesh
+371			0				Gold Nugget											gold_nugget
+375			0				Spider Eye											spider_eye
+377			0				Blaze Powder										blaze_powder
+384			0				Bottle o' Enchanting								experience_bottle
+387			0				Written Book										written_book
+388			0				Emerald												emerald
+391			0				Carrot												carrot
+392			0				Potato												potato
+393			0				Baked Potato										baked_potato
+396			0				Golden Carrot										golden_carrot
+400			0				Pumpkin Pie											pumpkin_pie
